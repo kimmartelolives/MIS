@@ -1,4 +1,4 @@
-# MIS (C++)
+# Management Information System (C++)
 Simple Management Information System
 
 - GUI
