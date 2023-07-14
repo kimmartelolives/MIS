@@ -14,7 +14,7 @@ Simple Management Information System
 
 ![image](https://github.com/kimmartelolives/MIS/assets/61133176/f969eae9-ba96-40a5-bf07-db86d7c10bb0)
 
-2![image](https://github.com/kimmartelolives/MIS/assets/61133176/de10c7d5-25a0-4577-9c92-d42efd005e0b)
+![image](https://github.com/kimmartelolives/MIS/assets/61133176/de10c7d5-25a0-4577-9c92-d42efd005e0b)
 
 ![image](https://github.com/kimmartelolives/MIS/assets/61133176/d3954797-0cd0-46d3-8008-99908fbb5a1d)
 
